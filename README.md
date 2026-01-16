@@ -102,6 +102,23 @@ This project demonstrates how **data analytics transforms business challenges in
 
 ---
 
+## 📄 Project Documentation (PDF)
+
+The complete project explanation and reports are also available in **PDF format** for detailed review.
+
+📎 **File included in this repository:**
+
+* `Project.README.md.file.pdf`
+
+This PDF contains:
+
+* Problem Statement & Business Context
+* Project Goals & Importance
+* Sales & Finance Analysis Details
+* Technical & Soft Skills Applied
+
+---
+
 ## 📈 Outcome
 
 This project delivers **end-to-end analytics**, transforming raw data into meaningful insights that help AtliQ Hardwares improve decision-making, profitability, and long-term growth.
